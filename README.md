@@ -7,8 +7,8 @@
 
 In the project directory, you can run:
 
-### `Live Site`
+### `Live Site` [Code Academy](https://code-academy-official.netlify.app/)
 
-[Live Site](https://code-academy-official.netlify.app/)
+
 
 
