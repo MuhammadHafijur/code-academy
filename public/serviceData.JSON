@@ -47,7 +47,7 @@
     {
       "id": "2sdfsdf4",
       "name": "MERN STACK",
-      "desc": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones.",
+      "desc": "MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack. MongoDB - document database. Express(.js) - Node.js web framework. React(.js) - a client-side JavaScript framework. Node(.js) - the premier JavaScript web server.",
       "age": 37,
       "country": "UK",
       "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png",
@@ -56,7 +56,7 @@
     {
       "id": "4tdf34rs",
       "name": "RUST",
-      "desc": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones.",
+      "desc": "Rust is an open-source systems programming language that focuses on speed, memory safety and parallelism. Developers are using Rust to create a wide range of new software applications",
       "age": 24,
       "country": "USA",
       "img": "https://lh6.googleusercontent.com/y43iRR5W_WyBqhutVGbAvKX2ojRZNHLnhfQ5oUXtb74FAhBp9PjmXxvPv-HMGCzeJ4fimKaP5vH5WN49OUyChc4MWO_dwJ-kbZ6CbQGW-lq2-T6aTgZjk92VaiFOKHFyDw8EPJ0",
