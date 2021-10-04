@@ -4,7 +4,6 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 import Navbar from './Components/Navbar/Navbar';
 import Footer from './Components/Footer/Footer';
@@ -18,6 +17,7 @@ function App() {
   return (
     <div className="App">
       <Router>
+        {/* Navbar */}
         <Navbar></Navbar>
         <Switch>
           <Route exact path="/">
@@ -42,6 +42,7 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
+        {/* Footer */}
         <Footer></Footer>
       </Router>
     </div>

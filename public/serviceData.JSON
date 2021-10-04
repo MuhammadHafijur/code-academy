@@ -2,7 +2,7 @@
     {
       "id": "sdflkjsl",
       "name": "Website Design",
-      "role": "Designer",
+      "desc": "Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design",
       "age": 32,
       "country": "USA",
       "img": "https://cdn.filestackcontent.com/W0psW8hkTEi8xe25BFHX",
@@ -11,7 +11,7 @@
     {
       "id": "4tBg0CN1QN",
       "name": "Branding",
-      "role": "Designer",
+      "desc": "A brand is a name, term, design, symbol or any other feature that identifies one seller's good or service as distinct from those of other sellers. ",
       "age": 28,
       "country": "Canada",
       "img": "https://websitedesignkingston.com/wp-content/uploads/2021/04/Blog-branding.png",
@@ -20,7 +20,7 @@
     {
       "id": "erow27wz",
       "name": "SEO Marketing",
-      "role": "Designer",
+      "desc": "SEO refers to the technical process of increasing the quality of traffic and attracting maximum visitors to your website.",
       "age": 37,
       "country": "UK",
       "img": "https://www.techcronus.com/wp-content/uploads/2020/10/What-Is-SEO-and-How-Can-SEO-Digital-Marketing-Help-to-Grow-Your-Business_.png",
@@ -29,7 +29,7 @@
     {
       "id": "erodfd2Sc7wz",
       "name": "App Development",
-      "role": "Designer",
+      "desc": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones.",
       "age": 35,
       "country": "Canada",
       "img": "https://www.invonto.com/wp-content/uploads/2018/01/mobile-app-development-process-flow.jpg",
@@ -38,7 +38,7 @@
     {
       "id": "hfgow2Sc7wz",
       "name": "TensorFlow",
-      "role": "Designer",
+      "desc": "TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.",
       "age": 28,
       "country": "USA",
       "img": "https://camo.githubusercontent.com/c04e16c05de80dadbdc990884672fc941fdcbbfbb02b31dd48c248d010861426/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f736f6369616c2e706e67",
@@ -46,92 +46,29 @@
     },
     {
       "id": "2sdfsdf4",
-      "name": "Dev Ed",
-      "role": "Designer",
+      "name": "MERN STACK",
+      "desc": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones.",
       "age": 37,
       "country": "UK",
-      "img": "https://mlng7avx35tc.i.optimole.com/3qG4lvo.Kt0z~385de/w:900/h:900/q:90/https://beyooond.com/wp-content/uploads/2020/06/Dev-Ed.jpg",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png",
       "price": 60800
     },
     {
       "id": "4tdf34rs",
-      "name": "Darrel Wilson",
-      "role": "Designer",
+      "name": "RUST",
+      "desc": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones.",
       "age": 24,
       "country": "USA",
-      "img": "https://0.academia-photos.com/50074937/13159952/14462588/s200_darrel.wilson.jpg",
+      "img": "https://lh6.googleusercontent.com/y43iRR5W_WyBqhutVGbAvKX2ojRZNHLnhfQ5oUXtb74FAhBp9PjmXxvPv-HMGCzeJ4fimKaP5vH5WN49OUyChc4MWO_dwJ-kbZ6CbQGW-lq2-T6aTgZjk92VaiFOKHFyDw8EPJ0",
       "price": 15000
     },
     {
       "id": "erosdf343",
-      "name": "YK Sugi",
-      "role": "Designer",
+      "name": "SCALA",
+      "desc": "Scala (Scalable Language) is a software programming language that mixes object-oriented methods with functional programming capabilities that support a more concise style of programming",
       "age": 29,
       "country": "UK",
-      "img": "https://pluralsight.imgix.net/author/lg/af80c326-01e3-4c84-802c-3f913e72b3a6.jpg",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbeYJPjoldUj2ILdzUjiI9r2ZfCOt5Nsvtk5RRaORrI0UZW_0ncpiEcy36ooLHmOucEYI&usqp=CAU",
       "price": 20000
-    },
-    {
-      "id": "erdfd34r",
-      "name": "Mosh Hamedani",
-      "role": "Designer",
-      "age": 39,
-      "country": "USA",
-      "img": "https://yt3.ggpht.com/ytc/AKedOLQ09D8wVCdgWoCN3IPrvVKWi48-R2QZ_yJkCmKh-A=s900-c-k-c0x00ffffff-no-rj",
-      "price": 70050
-    },
-    {
-      "id": "erdfw343",
-      "name": "Jesse Hall",
-      "role": "Designer",
-      "age": 36,
-      "country": "AUS",
-      "img": "https://pbs.twimg.com/profile_images/1379478790015967241/lnVy5ef1_400x400.jpg",
-      "price": 66820
-    },
-    {
-      "id": "sdff234fg",
-      "name": "Bucky Roberts",
-      "role": "Designer",
-      "age": 32,
-      "country": "USA",
-      "img": "https://d1hbpr09pwz0sk.cloudfront.net/profile_pic/bucky-roberts-e67034db",
-      "price": 80000
-    },
-    {
-      "id": "4tBdfer3",
-      "name": "Adrian Twarog",
-      "role": "Designer",
-      "age": 27,
-      "country": "UK",
-      "img": "https://yt3.ggpht.com/ytc/AKedOLRlgc2WX_PlndJ73B8Uv34TZjfzxqTFwLVJIF0l2w=s900-c-k-c0x00ffffff-no-rj",
-      "price": 120000
-    },
-    {
-      "id": "erofdfs3z",
-      "name": "William Candillon",
-      "role": "Designer",
-      "age": 32,
-      "country": "Finland",
-      "img": "https://yt3.ggpht.com/ytc/AKedOLQ0bZfVzpq_TBL7u-k6dSNRFX3dt2mU-m0_HfO7dg=s900-c-k-c0x00ffffff-no-rj",
-      "price": 98050
-    },
-    {
-      "id": "erow2Sc7wz",
-      "name": "Rafeh Qazi",
-      "role": "Designer",
-      "age": 25,
-      "country": "UK",
-      "img": "https://bestjavascriptcourse.com/hosted/images/65/2260931ba04fb39492550acf88a20c/24503041-0-22860620-11114854489.jpg",
-      "price": 65000
-    },
-    {
-      "id": "o34rfdSc7wz",
-      "name": "Ran Segall",
-      "role": "Designer",
-      "age": 36,
-      "country": "Canada",
-      "img": "https://global-uploads.webflow.com/5e33a765cf951f99dc204f8b/5e7efe41dc54452ac7eae979_ran-segall.jpeg",
-      "price": 88000
     }
   ]
