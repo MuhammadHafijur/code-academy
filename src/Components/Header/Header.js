@@ -5,8 +5,7 @@ import './Header.css'
 const Header = () => {
     return (
         <div className='banner'>
-            {/* <img className="h-screen w-full" src={img} alt="" /> */}
-            <h1>header</h1>
+            
         </div>
     );
 };

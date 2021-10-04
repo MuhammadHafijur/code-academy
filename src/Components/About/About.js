@@ -5,7 +5,7 @@ import img4 from './4.jpg'
 
 const About = () => {
     return (
-        <div>
+        <div class="">
             
 <div class="bg-white dark:bg-gray-800 overflow-hidden relative lg:flex lg:items-center">
     <div class="w-full py-12 px-4 sm:px-6 lg:py-16 lg:px-8 z-20">

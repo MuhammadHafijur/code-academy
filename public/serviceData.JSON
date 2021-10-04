@@ -1,0 +1,137 @@
+[
+    {
+      "id": "sdflkjsl",
+      "name": "Andrei Neagoie",
+      "role": "Designer",
+      "age": 32,
+      "country": "USA",
+      "img": "https://pbs.twimg.com/profile_images/1077192318397108226/SOdG5r1f.jpg",
+      "price": 8000
+    },
+    {
+      "id": "4tBg0CN1QN",
+      "name": "Maximilian schwar",
+      "role": "Designer",
+      "age": 28,
+      "country": "Canada",
+      "img": "https://avatars.githubusercontent.com/u/28806196?v=4",
+      "price": 3354
+    },
+    {
+      "id": "erow27wz",
+      "name": "Kevin Powell",
+      "role": "Designer",
+      "age": 37,
+      "country": "UK",
+      "img": "https://d33wubrfki0l68.cloudfront.net/3156dc4cf5f0f6b69cde5bdd18f0ff31eccb14e0/67c46/img/f21b00ed-300.jpeg",
+      "price": 65000
+    },
+    {
+      "id": "erodfd2Sc7wz",
+      "name": "Kenny Gunder",
+      "role": "Designer",
+      "age": 35,
+      "country": "Canada",
+      "img": "https://yt3.ggpht.com/ytc/AKedOLR2mPVgBIubx0-LLBrUYUAz8cIXrIEOqStUiCxBig=s900-c-k-c0x00ffffff-no-rj",
+      "price": 10000
+    },
+    {
+      "id": "hfgow2Sc7wz",
+      "name": "Joma Tech",
+      "role": "Designer",
+      "age": 28,
+      "country": "USA",
+      "img": "https://yt3.ggpht.com/ytc/AKedOLTFLnUPOScnD78_Lz7YCbp0PXSpPgBTI4HA0pA8=s900-c-k-c0x00ffffff-no-rj",
+      "price": 45000
+    },
+    {
+      "id": "2sdfsdf4",
+      "name": "Dev Ed",
+      "role": "Designer",
+      "age": 37,
+      "country": "UK",
+      "img": "https://mlng7avx35tc.i.optimole.com/3qG4lvo.Kt0z~385de/w:900/h:900/q:90/https://beyooond.com/wp-content/uploads/2020/06/Dev-Ed.jpg",
+      "price": 60800
+    },
+    {
+      "id": "4tdf34rs",
+      "name": "Darrel Wilson",
+      "role": "Designer",
+      "age": 24,
+      "country": "USA",
+      "img": "https://0.academia-photos.com/50074937/13159952/14462588/s200_darrel.wilson.jpg",
+      "price": 15000
+    },
+    {
+      "id": "erosdf343",
+      "name": "YK Sugi",
+      "role": "Designer",
+      "age": 29,
+      "country": "UK",
+      "img": "https://pluralsight.imgix.net/author/lg/af80c326-01e3-4c84-802c-3f913e72b3a6.jpg",
+      "price": 20000
+    },
+    {
+      "id": "erdfd34r",
+      "name": "Mosh Hamedani",
+      "role": "Designer",
+      "age": 39,
+      "country": "USA",
+      "img": "https://yt3.ggpht.com/ytc/AKedOLQ09D8wVCdgWoCN3IPrvVKWi48-R2QZ_yJkCmKh-A=s900-c-k-c0x00ffffff-no-rj",
+      "price": 70050
+    },
+    {
+      "id": "erdfw343",
+      "name": "Jesse Hall",
+      "role": "Designer",
+      "age": 36,
+      "country": "AUS",
+      "img": "https://pbs.twimg.com/profile_images/1379478790015967241/lnVy5ef1_400x400.jpg",
+      "price": 66820
+    },
+    {
+      "id": "sdff234fg",
+      "name": "Bucky Roberts",
+      "role": "Designer",
+      "age": 32,
+      "country": "USA",
+      "img": "https://d1hbpr09pwz0sk.cloudfront.net/profile_pic/bucky-roberts-e67034db",
+      "price": 80000
+    },
+    {
+      "id": "4tBdfer3",
+      "name": "Adrian Twarog",
+      "role": "Designer",
+      "age": 27,
+      "country": "UK",
+      "img": "https://yt3.ggpht.com/ytc/AKedOLRlgc2WX_PlndJ73B8Uv34TZjfzxqTFwLVJIF0l2w=s900-c-k-c0x00ffffff-no-rj",
+      "price": 120000
+    },
+    {
+      "id": "erofdfs3z",
+      "name": "William Candillon",
+      "role": "Designer",
+      "age": 32,
+      "country": "Finland",
+      "img": "https://yt3.ggpht.com/ytc/AKedOLQ0bZfVzpq_TBL7u-k6dSNRFX3dt2mU-m0_HfO7dg=s900-c-k-c0x00ffffff-no-rj",
+      "price": 98050
+    },
+    {
+      "id": "erow2Sc7wz",
+      "name": "Rafeh Qazi",
+      "role": "Designer",
+      "age": 25,
+      "country": "UK",
+      "img": "https://bestjavascriptcourse.com/hosted/images/65/2260931ba04fb39492550acf88a20c/24503041-0-22860620-11114854489.jpg",
+      "price": 65000
+    },
+    {
+      "id": "o34rfdSc7wz",
+      "name": "Ran Segall",
+      "role": "Designer",
+      "age": 36,
+      "country": "Canada",
+      "img": "https://global-uploads.webflow.com/5e33a765cf951f99dc204f8b/5e7efe41dc54452ac7eae979_ran-segall.jpeg",
+      "price": 88000
+    }
+  ]

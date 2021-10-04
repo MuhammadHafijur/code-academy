@@ -36,7 +36,7 @@ const Navbar = () => {
         <div className="flex-shrink-0 flex items-center">
           {/* <img className="block lg:hidden h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-mark-indigo-500.svg" alt="Workflow" />
           <img className="hidden lg:block h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-logo-indigo-500-mark-white-text.svg" alt="Workflow" /> */}
-          <h1 className="text-white font-semibold">Stanford University</h1>
+          <h1 className="text-white font-semibold">Code Academy</h1>
         </div>
         <div className="hidden sm:block sm:ml-6">
           <div className="flex space-x-4">
@@ -70,7 +70,7 @@ const Navbar = () => {
 
             <NavLink to="/admissions" className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Admissions</NavLink>
 
-            <NavLink to="/service" className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Services</NavLink>
+            <NavLink to="/services" className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Services</NavLink>
 
             <NavLink to="/about" className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">About</NavLink>
           </div>
