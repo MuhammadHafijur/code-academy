@@ -1,47 +1,47 @@
 [
     {
       "id": "sdflkjsl",
-      "name": "Andrei Neagoie",
+      "name": "Website Design",
       "role": "Designer",
       "age": 32,
       "country": "USA",
-      "img": "https://pbs.twimg.com/profile_images/1077192318397108226/SOdG5r1f.jpg",
+      "img": "https://cdn.filestackcontent.com/W0psW8hkTEi8xe25BFHX",
       "price": 8000
     },
     {
       "id": "4tBg0CN1QN",
-      "name": "Maximilian schwar",
+      "name": "Branding",
       "role": "Designer",
       "age": 28,
       "country": "Canada",
-      "img": "https://avatars.githubusercontent.com/u/28806196?v=4",
+      "img": "https://websitedesignkingston.com/wp-content/uploads/2021/04/Blog-branding.png",
       "price": 3354
     },
     {
       "id": "erow27wz",
-      "name": "Kevin Powell",
+      "name": "SEO Marketing",
       "role": "Designer",
       "age": 37,
       "country": "UK",
-      "img": "https://d33wubrfki0l68.cloudfront.net/3156dc4cf5f0f6b69cde5bdd18f0ff31eccb14e0/67c46/img/f21b00ed-300.jpeg",
+      "img": "https://www.techcronus.com/wp-content/uploads/2020/10/What-Is-SEO-and-How-Can-SEO-Digital-Marketing-Help-to-Grow-Your-Business_.png",
       "price": 65000
     },
     {
       "id": "erodfd2Sc7wz",
-      "name": "Kenny Gunder",
+      "name": "App Development",
       "role": "Designer",
       "age": 35,
       "country": "Canada",
-      "img": "https://yt3.ggpht.com/ytc/AKedOLR2mPVgBIubx0-LLBrUYUAz8cIXrIEOqStUiCxBig=s900-c-k-c0x00ffffff-no-rj",
+      "img": "https://www.invonto.com/wp-content/uploads/2018/01/mobile-app-development-process-flow.jpg",
       "price": 10000
     },
     {
       "id": "hfgow2Sc7wz",
-      "name": "Joma Tech",
+      "name": "TensorFlow",
       "role": "Designer",
       "age": 28,
       "country": "USA",
-      "img": "https://yt3.ggpht.com/ytc/AKedOLTFLnUPOScnD78_Lz7YCbp0PXSpPgBTI4HA0pA8=s900-c-k-c0x00ffffff-no-rj",
+      "img": "https://camo.githubusercontent.com/c04e16c05de80dadbdc990884672fc941fdcbbfbb02b31dd48c248d010861426/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f736f6369616c2e706e67",
       "price": 45000
     },
     {
