@@ -10,8 +10,9 @@ import Navbar from './Components/Navbar/Navbar';
 import Footer from './Components/Footer/Footer';
 import About from './Components/About/About';
 import NotFound from './Components/NotFound/NotFound';
-import Service from './Components/Service/Service';
 import Services from './Components/Services/Services';
+import Contact from './Components/Contact/Contact';
+import Admissions from './Components/Admissions/Admissions';
 
 function App() {
   return (
@@ -25,14 +26,17 @@ function App() {
           <Route path="/home">
             <Home></Home>
           </Route>
-          <Route path="/admissions">
-            <Home></Home>
+          <Route path="/admission">
+            <Admissions></Admissions>
           </Route>
           <Route path="/services">
             <Services></Services>
           </Route>
           <Route path="/about">
             <About></About>
+          </Route>
+          <Route path="/contact">
+            <Contact></Contact>
           </Route>
           <Route path="*">
             <NotFound></NotFound>

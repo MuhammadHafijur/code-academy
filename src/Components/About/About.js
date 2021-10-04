@@ -6,12 +6,12 @@ import img4 from './4.jpg'
 const About = () => {
     return (
         <div class="">
-            
+            <h1 class="text-5xl font-medium">ABOUT US</h1>
 <div class="bg-white dark:bg-gray-800 overflow-hidden relative lg:flex lg:items-center">
     <div class="w-full py-12 px-4 sm:px-6 lg:py-16 lg:px-8 z-20">
         <h2 class="text-3xl font-extrabold text-black dark:text-white sm:text-4xl">
             <span class="block">
-                Mother hearth host your travel
+            A FEW WORDS ABOUT US
             </span>
         </h2>
         <p class="text-md mt-4 text-gray-400">
